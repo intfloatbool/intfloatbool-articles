@@ -264,4 +264,4 @@ Sep 25 17:32:57 192-168-0-116.local process_system_daemon[7901]: [my_daemon] XXX
 > sudo systemctl daemon-reload
 > ```
 
-**[Следующая статья](linux-c-system-programming-essentials-p6-processes-p2.md)**
+**[Следующая статья](linux-c-system-programming-essentials-p7-processes-p2.md)**
