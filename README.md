@@ -18,7 +18,7 @@
 Люблю оптимизацию, низкоуровневые детали, работу с памятью, сетями и одновременно ценю практическую разработку приложений и игр.
 
 ## Контакты
-- Telegram: [https://t.me/intfloatbool]  
+- Telegram: [@intfloatbool](https://t.me/intfloatbool)  
 - Email: ```intfloatbool@gmail.com```
 
 ## О репозитории
