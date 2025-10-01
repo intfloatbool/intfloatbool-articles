@@ -1,0 +1,1 @@
+gcc -shared -Wl,-soname,libcustomlogger.so -o libcustomlogger.so custom_logger.o

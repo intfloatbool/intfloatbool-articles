@@ -1,0 +1,1 @@
+gcc -Wall -Wextra -pedantic -fPIC -c custom_logger.c

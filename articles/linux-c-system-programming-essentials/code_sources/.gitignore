@@ -1,0 +1,23 @@
+# --- C / GCC ---
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dll
+
+# buildz
+build/
+bin/
+out/
+
+# --- PHP CLI ---
+*.log
+*.cache
+*.pid
+
+
+*~
+*.swp
+.DS_Store
+Thumbs.db

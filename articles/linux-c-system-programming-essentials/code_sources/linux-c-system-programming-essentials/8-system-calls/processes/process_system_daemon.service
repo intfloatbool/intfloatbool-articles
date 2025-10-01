@@ -1,0 +1,20 @@
+# to place in /etc/systemd/system/
+
+[Unit]
+Description=Simple XXX test daemon 
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/process_system_daemon 3
+
+Restart=on-failure
+RestartSec=2s
+
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
+
+
+
