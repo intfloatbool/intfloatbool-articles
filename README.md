@@ -6,6 +6,7 @@
 ## 📚 Содержание
 1. [Справочник по Linux и частым инструкциям для Bash](./articles/linux-bash-quick-reference/README.md)  
 2. [Быстрое введение в системное программирование на языке C в Linux](./articles/linux-c-system-programming-essentials/README.md)  
+3. [Изучение работы raylib на примере ```models_loading_gltf.c```](./articles/raylib-research/README.md)
 *(список будет пополняться)*
 
 ## Обо мне
