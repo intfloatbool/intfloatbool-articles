@@ -4,7 +4,7 @@
 - Библиотека [raylib](https://github.com/raysan5/raylib)
 - Пример [```models_loading_gltf.c```](https://github.com/raysan5/raylib/blob/master/examples/models/models_loading.c), который исследуется.
 
-![](/assets/images/models_loading_gltf.png)
+![](./assets/images/models_loading_gltf.png)
 
 ## Среда разработки
 

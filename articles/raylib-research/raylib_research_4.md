@@ -130,15 +130,15 @@ UpdateModelAnimation(model, anim, animCurrentFrame);
 
 ```tint = WHITE```:
 
-![](/assets/images/tint_white.png)
+![](./assets/images/tint_white.png)
 
 ```tint = BLACK```:
 
-![](/assets/images/tint_black.png)
+![](./assets/images/tint_black.png)
 
 ```tint = RED```:
 
-![](/assets/images/tint_red.png)
+![](./assets/images/tint_red.png)
 
 
 - Идет отрисовка сетки, через функцию ```DrawGrid()```, ```10х10``` с расстоянием ```1.0```.
